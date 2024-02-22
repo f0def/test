@@ -34,7 +34,7 @@
     "isRequired": false,
     "onTextChanged": "",
     "isDeprecated": false,
-    "rightColumn": 20,
+    "rightColumn": 42,
     "dynamicHeight": "FIXED",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "widgetId": "vfq8l4l5nq",

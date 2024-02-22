@@ -10,8 +10,8 @@
     "iconSVG": "/static/media/icon.bd99caba5853ad71e4b3d8daffacb3a2.svg",
     "labelText": "Label",
     "searchTags": ["dropdown"],
-    "topRow": 49,
-    "bottomRow": 56,
+    "topRow": 66,
+    "bottomRow": 73,
     "parentRowSpace": 10,
     "labelWidth": 5,
     "type": "SELECT_WIDGET",
@@ -60,9 +60,9 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "optionLabel": "label",
-    "originalTopRow": 49,
+    "originalTopRow": 66,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 56,
+    "originalBottomRow": 73,
     "minDynamicHeight": 4
 }

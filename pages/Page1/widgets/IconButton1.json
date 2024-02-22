@@ -9,8 +9,8 @@
         "click",
         "submit"
     ],
-    "topRow": 77,
-    "bottomRow": 81,
+    "topRow": 94,
+    "bottomRow": 98,
     "parentRowSpace": 10,
     "type": "ICON_BUTTON_WIDGET",
     "hideCard": false,
@@ -33,8 +33,8 @@
     "parentId": "0",
     "renderMode": "CANVAS",
     "isLoading": false,
-    "originalTopRow": 77,
+    "originalTopRow": 94,
     "borderRadius": "1.5rem",
-    "originalBottomRow": 81,
+    "originalBottomRow": 98,
     "buttonVariant": "PRIMARY"
 }
