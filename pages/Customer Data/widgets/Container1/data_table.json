@@ -224,6 +224,7 @@
     },
     "borderRadius": "0px",
     "isVisiblePagination": true,
+    "primaryColumnId": "_id",
     "cellBackground": "",
     "verticalAlignment": "CENTER",
     "columnSizeMap": {
