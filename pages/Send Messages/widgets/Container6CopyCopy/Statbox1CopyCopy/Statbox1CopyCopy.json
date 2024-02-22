@@ -19,7 +19,7 @@
         "widgetName": "Canvas8CopyCopy",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 130,
+        "bottomRow": 100,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
