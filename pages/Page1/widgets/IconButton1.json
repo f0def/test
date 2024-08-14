@@ -1,40 +1,48 @@
 {
-    "boxShadow": "none",
-    "widgetName": "IconButton1",
-    "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "dynamicPropertyPathList": [{"key": "isVisible"}],
-    "displayName": "Icon Button",
-    "iconSVG": "/static/media/icon.1a0c634ac75f9fa6b6ae7a8df882a3ba.svg",
-    "searchTags": [
-        "click",
-        "submit"
-    ],
-    "topRow": 77,
-    "bottomRow": 81,
-    "parentRowSpace": 10,
-    "type": "ICON_BUTTON_WIDGET",
-    "hideCard": false,
-    "animateLoading": true,
-    "parentColumnSpace": 24.359375,
-    "dynamicTriggerPathList": [],
-    "leftColumn": 2,
-    "dynamicBindingPathList": [
-        {"key": "buttonColor"},
-        {"key": "isVisible"}
-    ],
-    "isDisabled": false,
-    "key": "jlwcaa1gif",
-    "isDeprecated": false,
-    "rightColumn": 6,
-    "iconName": "plus",
-    "widgetId": "b4mnyfuh3s",
-    "isVisible": "{{ appsmith.store.accessToken }}",
-    "version": 1,
-    "parentId": "0",
-    "renderMode": "CANVAS",
-    "isLoading": false,
-    "originalTopRow": 77,
-    "borderRadius": "1.5rem",
-    "originalBottomRow": 81,
-    "buttonVariant": "PRIMARY"
+  "animateLoading": true,
+  "borderRadius": "1.5rem",
+  "bottomRow": 81,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "displayName": "Icon Button",
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "isVisible"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "isVisible"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "hideCard": false,
+  "iconName": "plus",
+  "iconSVG": "/static/media/icon.1a0c634ac75f9fa6b6ae7a8df882a3ba.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": "{{ appsmith.store.accessToken }}",
+  "key": "jlwcaa1gif",
+  "leftColumn": 2,
+  "originalBottomRow": 81,
+  "originalTopRow": 77,
+  "parentColumnSpace": 24.359375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 6,
+  "searchTags": [
+    "click",
+    "submit"
+  ],
+  "topRow": 77,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "b4mnyfuh3s",
+  "widgetName": "IconButton1"
 }

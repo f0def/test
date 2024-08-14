@@ -1,44 +1,54 @@
 {
-    "widgetName": "Checkbox1",
-    "dynamicPropertyPathList": [{"key": "defaultCheckedState"}],
-    "displayName": "Checkbox",
-    "iconSVG": "/static/media/icon.aaab032b43383e4fa53ffc0ef40c90ef.svg",
-    "searchTags": ["boolean"],
-    "topRow": 9,
-    "bottomRow": 33,
-    "parentRowSpace": 10,
-    "type": "CHECKBOX_WIDGET",
-    "alignWidget": "LEFT",
-    "hideCard": false,
-    "animateLoading": true,
-    "parentColumnSpace": 20.0625,
-    "dynamicTriggerPathList": [],
-    "leftColumn": 20,
-    "dynamicBindingPathList": [
-        {"key": "accentColor"},
-        {"key": "borderRadius"}
-    ],
-    "labelPosition": "Right",
-    "isDisabled": false,
-    "key": "8p9u29p7se",
-    "isRequired": false,
-    "isDeprecated": false,
-    "rightColumn": 43,
-    "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "vuv4knrkrc",
-    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-    "minWidth": 450,
-    "isVisible": true,
-    "label": "Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Lab1el Label Label Label Label Label Label Label Label Label Label Label Label Label 4Label Label Label2 Label 3",
-    "version": 1,
-    "parentId": "0",
-    "renderMode": "CANVAS",
-    "isLoading": false,
-    "responsiveBehavior": "fill",
-    "originalTopRow": 9,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "defaultCheckedState": "false",
-    "maxDynamicHeight": 9000,
-    "originalBottomRow": 33,
-    "minDynamicHeight": 4
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignWidget": "LEFT",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 33,
+  "defaultCheckedState": "false",
+  "displayName": "Checkbox",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicPropertyPathList": [
+    {
+      "key": "defaultCheckedState"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.aaab032b43383e4fa53ffc0ef40c90ef.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "8p9u29p7se",
+  "label": "Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Label Lab1el Label Label Label Label Label Label Label Label Label Label Label Label Label 4Label Label Label2 Label 3",
+  "labelPosition": "Right",
+  "leftColumn": 20,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "originalBottomRow": 33,
+  "originalTopRow": 9,
+  "parentColumnSpace": 20.0625,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 43,
+  "searchTags": [
+    "boolean"
+  ],
+  "topRow": 9,
+  "type": "CHECKBOX_WIDGET",
+  "version": 1,
+  "widgetId": "vuv4knrkrc",
+  "widgetName": "Checkbox1"
 }

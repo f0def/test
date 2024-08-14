@@ -1,68 +1,80 @@
 {
-    "boxShadow": "none",
-    "widgetName": "Select1Copy1",
-    "isFilterable": true,
-    "dynamicPropertyPathList": [
-        {"key": "isRequired"},
-        {"key": "sourceData"}
-    ],
-    "displayName": "Select",
-    "iconSVG": "/static/media/icon.bd99caba5853ad71e4b3d8daffacb3a2.svg",
-    "labelText": "Label",
-    "searchTags": ["dropdown"],
-    "topRow": 49,
-    "bottomRow": 56,
-    "parentRowSpace": 10,
-    "labelWidth": 5,
-    "type": "SELECT_WIDGET",
-    "serverSideFiltering": false,
-    "hideCard": false,
-    "defaultOptionValue": "{{ ((options, serverSideFiltering) => ( `GREEN`))(Select1Copy1.options, Select1Copy1.serverSideFiltering) }}",
-    "animateLoading": true,
-    "parentColumnSpace": 24.359375,
-    "dynamicTriggerPathList": [],
-    "leftColumn": 2,
-    "dynamicBindingPathList": [
-        {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "defaultOptionValue"}
-    ],
-    "labelPosition": "Top",
-    "placeholderText": "Select option",
-    "isDisabled": false,
-    "sourceData": [
-        {
-            "label": "Blue",
-            "value": "BLUE"
-        },
-        {
-            "label": "Green",
-            "value": "GREEN"
-        },
-        {
-            "label": "Red",
-            "value": "RED"
-        }
-    ],
-    "key": "10retz74vo",
-    "labelTextSize": "0.875rem",
-    "isRequired": "true",
-    "isDeprecated": false,
-    "rightColumn": 22,
-    "dynamicHeight": "FIXED",
-    "widgetId": "qm38aqzi6l",
-    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-    "optionValue": "value",
-    "isVisible": true,
-    "version": 1,
-    "parentId": "0",
-    "labelAlignment": "left",
-    "renderMode": "CANVAS",
-    "isLoading": false,
-    "optionLabel": "label",
-    "originalTopRow": 49,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "maxDynamicHeight": 9000,
-    "originalBottomRow": 56,
-    "minDynamicHeight": 4
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 56,
+  "boxShadow": "none",
+  "defaultOptionValue": "{{ ((options, serverSideFiltering) => ( `GREEN`))(Select1Copy1.options, Select1Copy1.serverSideFiltering) }}",
+  "displayName": "Select",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "defaultOptionValue"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "isRequired"
+    },
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.bd99caba5853ad71e4b3d8daffacb3a2.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": "true",
+  "isVisible": true,
+  "key": "10retz74vo",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "Label",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 2,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "optionLabel": "label",
+  "optionValue": "value",
+  "originalBottomRow": 56,
+  "originalTopRow": 49,
+  "parentColumnSpace": 24.359375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "rightColumn": 22,
+  "searchTags": [
+    "dropdown"
+  ],
+  "serverSideFiltering": false,
+  "sourceData": [
+    {
+      "label": "Blue",
+      "value": "BLUE"
+    },
+    {
+      "label": "Green",
+      "value": "GREEN"
+    },
+    {
+      "label": "Red",
+      "value": "RED"
+    }
+  ],
+  "topRow": 49,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "qm38aqzi6l",
+  "widgetName": "Select1Copy1"
 }
