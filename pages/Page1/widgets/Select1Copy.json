@@ -10,7 +10,7 @@
     "iconSVG": "/static/media/icon.bd99caba5853ad71e4b3d8daffacb3a2.svg",
     "labelText": "Label",
     "searchTags": ["dropdown"],
-    "topRow": 42,
+    "topRow": 35,
     "bottomRow": 49,
     "parentRowSpace": 10,
     "labelWidth": 5,
